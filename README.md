@@ -14,7 +14,7 @@
 ---
 
 ## 📊 Projects  
-![Dashboard](Hospital_Project/dashboard.png)
+hospital_dashboard.pbix
 
 ### 🏥 Hospital Data Analysis  
 - Tools: Excel, Power BI  
