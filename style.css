@@ -201,3 +201,34 @@ nav ul li {
 .cert-info p {
     margin-bottom: 5px;
 }
+/* Contact Section Styling */
+.contact-section {
+    text-align: center;
+    padding: 50px 20px;
+}
+
+.contact-links {
+    display: flex;
+    justify-content: center; /* Buttons ko center karega */
+    gap: 15px;              /* Buttons ke beech barabar space */
+    flex-wrap: wrap;        /* Jagah kam hone par buttons niche shift honge */
+    margin-top: 20px;
+}
+
+/* Link Style fix */
+.contact-links a {
+    text-decoration: none;
+    display: inline-block;
+}
+
+/* Mobile Responsive Fix */
+@media (max-width: 600px) {
+    .contact-links {
+        flex-direction: column; /* Mobile par buttons vertical ho jayenge */
+        align-items: center;
+    }
+    
+    .contact-links a {
+        width: 80%; /* Mobile par buttons thode bade aur sundar dikhenge */
+    }
+}
