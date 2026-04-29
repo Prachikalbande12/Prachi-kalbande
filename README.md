@@ -5,11 +5,13 @@
 
 ---
 
-## 🔧 Skills  
-- Python  
-- SQL  
-- Excel  
-- Power BI  
+## 🔧 Skills 
+- Languages: SQL, Python, C, C++  
+- Analytics Tools: MS Excel (VLOOKUP, Pivot Table), Power BI (DAX, Dashboards)  
+- Web Tech: HTML5, CSS3 (Responsive Design)  
+- Developer Tools: VS Code, Git, GitHub, GitHub Pages  
+- AI & Tools: ChatGPT, Gemini (Prompt Engineering, Code Assistance)  
+- Expertise: Data Cleaning, Data Visualization, Dashboard Development, Version Control, Basic Cloud Concepts (PaaS, Static Hosting)  
 
 ---
 
